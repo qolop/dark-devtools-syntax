@@ -1,13 +1,13 @@
 {
   "name": "dark-devtools-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "A syntax theme for Atom resembling Google Chrome's dark Devtools theme.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/dark-devtools-syntax",
+  "repository": "https://github.com/qolop/dark-devtools-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
