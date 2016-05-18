@@ -1,7 +1,7 @@
 {
   "name": "dark-devtools-syntax",
   "theme": "syntax",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A syntax theme for Atom resembling Google Chrome's dark Devtools theme.",
   "keywords": [
     "syntax",
