@@ -5,7 +5,10 @@
   "description": "A syntax theme for Atom resembling Google Chrome's dark Devtools theme.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "chrome",
+    "google",
+    "developer",
   ],
   "repository": "https://github.com/qolop/dark-devtools-syntax",
   "license": "MIT",
